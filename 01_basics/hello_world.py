@@ -1,6 +1,6 @@
 print("Hello world in python")
 
-def chai(n):
+def tea(n):
     print(n)
     
-chai("lemon tea")
+tea("lemon tea")
